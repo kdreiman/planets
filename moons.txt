@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-conflict in moons
-=======
-more moons
-added conflict line
->>>>>>> moons
-mooons
