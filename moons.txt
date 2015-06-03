@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 conflict in moons
+=======
+more moons
+added conflict line
+mooons
